@@ -1,6 +1,6 @@
 {
-  "domain": "https://github.com/kruzhkov/ha-nextcloud-talk-client",
-  "name": "NextCloud Talk",
+  "domain": "ha-nextcloud-talk-client",
+  "name": "NextCloud Talk client",
   "documentation": "https://github.com/kruzhkov/ha-nextcloud-talk-client",
   "requirements": [
     "requests"
